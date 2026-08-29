@@ -1,26 +1,16 @@
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miglllferr&theme=dark"  
-  />
+<h2> Olá! Eu sou o Miguel  👋 </h2> <br>
+ 📆 25/01/2005 - 21 anos <br>
+ <br>
+ <br>
 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miglllferr&theme=solarized"
-  />
- <img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miglllferr&theme=solarized"
-  />
-
-
+<div>
+  <a href="https://github.com/migllferr">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migllferr&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+<div style="display: inline_block"><br>
+<img src=![figma-html-css-java-python-google cloud-dart-flutter](https://www.readmecodegen.com/api/social-icon?name=figma%2Chtml%2Ccss%2Cjava%2Cpython%2Cgoogle+cloud%2Cdart%2Cflutter)/>
   
-
-</p>
+</div> 
+  
+  ##
