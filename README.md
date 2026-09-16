@@ -1,5 +1,5 @@
-<h2> Olá! Eu sou o Miguel  👋 </h2> <br>
- 📆 25/01/2005 - 21 anos <br>
+<h2> Olá! Eu sou o Miguel  👋 </h2> 
+<br> 📆 25/01/2005 - 21 anos <br>
  <br>
  <br>
 
