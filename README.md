@@ -1,7 +1,7 @@
 <h2> Olá! Eu sou o Miguel  👋 </h2> 
 <br> 📆 25/01/2005 - 21 anos <br>
-<br> Sou estudante de Ciência da Computação na Universidade Cruzeiro do Sul - Campus Villa Lobos <br>
-<br> Atualmente estou trabalhando na empresa Geofix Engenharia e Fundação <br>
+<br> 🏫 Sou estudante de Ciência da Computação na Universidade Cruzeiro do Sul - Campus Villa Lobos <br>
+<br> 💼 Atualmente estou trabalhando na empresa Geofix Engenharia e Fundação <br>
 
 
 <div>
