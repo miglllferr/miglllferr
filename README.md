@@ -3,11 +3,12 @@
 <br> 🏫 Sou estudante de Ciência da Computação na Universidade Cruzeiro do Sul - Campus Villa Lobos <br>
 <br> 💼 Atualmente estou trabalhando na empresa Geofix Engenharia e Fundação como Auxiliar Administrativo Logistico <br>
 
+##
 
-<div>
-  <a href="https://github.com/migllferr">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migllferr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=miglllferr&show_icons=false&show_ring=false&border_radius=3.5&custom_title=Stats&hide=followers)
+
+ ##
+<p></p>
  
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge">
