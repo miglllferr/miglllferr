@@ -10,8 +10,12 @@
 </div>
  
 <div style="display: inline_block"><br>
-<img src=![figma-html-css-java-python-google cloud-dart-flutter](https://www.readmecodegen.com/api/social-icon?name=figma%2Chtml%2Ccss%2Cjava%2Cpython%2Cgoogle+cloud%2Cdart%2Cflutter)/>
-  
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat" alt="CSS Badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat" alt="Dart Badge">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat" alt="Flutter Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
 </div> 
   
   ##
